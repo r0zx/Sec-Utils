@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: sec-utils
+Version: 0.1.0
+Summary: CLI pentesting utility toolkit
+Author: r0zx
+Author-email: dhimanyatin4@gmail.com
+Requires-Dist: aiohttp
+Requires-Dist: rich
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
