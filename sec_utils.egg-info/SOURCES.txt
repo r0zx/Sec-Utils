@@ -9,4 +9,7 @@ sec_utils.egg-info/top_level.txt
 secutils/__init__.py
 secutils/cli.py
 secutils/dirbrute.py
+secutils/fuzzer.py
+secutils/hashid.py
+secutils/mangler.py
 secutils/scanner.py
